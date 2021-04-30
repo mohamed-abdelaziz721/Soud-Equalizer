@@ -11,12 +11,13 @@
 
 ## Table of Contents
 
--   [About the Project](#about-the-project)
--   [Toolbox](#toolbox)
--   [Setting Up the Environment](#setting-up-the-environment)
--   [Our Team](#our-team)
--   [Acknowledgements](#acknowledgements)
--   [About](#about)
+- [sound-equalizer](#sound-equalizer)
+  - [Table of Contents](#table-of-contents)
+  - [About The Project](#about-the-project)
+  - [Toolbox](#toolbox)
+  - [Setting Up the Environment](#setting-up-the-environment)
+  - [Our Team](#our-team)
+  - [About](#about)
 
 ## About The Project
 
@@ -76,7 +77,7 @@ This is a Sound Equalizer GUI App Using Python's PyQt5. It gives you the ability
 
 -   Ramadan Ibrahem - [![linkedin-shield]](https://www.linkedin.com/in/ramadanibrahem/)
 -   Muhammad Seyam - [![linkedin-shield]](https://www.linkedin.com/in/mohamed-seyam-91b3b81b7/)
--   Muhammad Abd-ElAziz - [![linkedin-shield]](https://www.linkedin.com/in/mohamed-ahmed-abdelaziz)
+-   Mohamed Ahmed Abdelaziz - [![linkedin-shield]](https://www.linkedin.com/in/mohamed-ahmed-abdelaziz)
 -   Yousef Samir - [![linkedin-shield]](https://www.linkedin.com/in/youssef-samir-b24848191)
 
 ## About
